@@ -11,7 +11,7 @@ put these datasets in `/dataset`
 ### 1. Open your terminal and navigate to your desired folder
 
 ```bash
-cd path/to/your/foldercd
+cd path/to/your/folder
 ```
 
 ### 2. Clone the repository:
