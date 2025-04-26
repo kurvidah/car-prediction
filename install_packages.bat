@@ -1,5 +1,5 @@
 @echo off
-echo Installing required Python packages...
-python -m pip install pandas numpy fuzzywuzzy matplotlib seaborn scikit-learn optuna joblib
+echo Installing required Python packages from requirements.txt...
+python -m pip install -r requirements.txt
 echo Installation complete.
 pause
